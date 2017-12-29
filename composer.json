@@ -1,0 +1,15 @@
+{
+    "name": "jochem/gps",
+    "require": {
+        "slim/slim": "^3.9",
+        "monolog/monolog": "^1.23",
+        "firebase/php-jwt": "^5.0",
+        "ext-pdo_pgsql": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Jochem",
+            "email": "jochemcb@gmail.com"
+        }
+    ]
+}
